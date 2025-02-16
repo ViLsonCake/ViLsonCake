@@ -6,7 +6,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViLsonCake&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="Most Used Languages"/>
 
 ## About me
-- I'm a 18-year-old programmer from Ukraine.
-- I started programming when I was 15. 
-- My main Language is **Java**.
-- Billiards player, gamer, and aviation enthusiast.
+I'm an experienced Backend Developer. Proficient in making RESTful web services using Java, and Spring framework (Core, Boot, Data, Web, Security).
